@@ -167,11 +167,11 @@ foreach($results as $result)
             </li>
             <li>
               <div class="icon_wrap"><i class="fa fa-envelope-o" aria-hidden="true"></i></div>
-              <div class="contact_info_m"><a href="tel:+254797049288"><?php   echo htmlentities($result->EmailId); ?></a></div>
+              <div class="contact_info_m"><a href="mailto:<?php   echo htmlentities($result->EmailId); ?>"><?php   echo htmlentities($result->EmailId); ?></a></div>
             </li>
             <li>
               <div class="icon_wrap"><i class="fa fa-phone" aria-hidden="true"></i></div>
-              <div class="contact_info_m"><a href="mailto:odhiambothomas09@gmail.com"><?php   echo htmlentities($result->ContactNo); ?></a></div>
+              <div class="contact_info_m"><a href="tel:<?php   echo htmlentities($result->ContactNo); ?>"><?php   echo htmlentities($result->ContactNo); ?></a></div>
             </li>
           </ul>
         <?php }} ?>
@@ -218,5 +218,4 @@ foreach($results as $result)
 
 </body>
 
-<!-- Mirrored from themes.webmasterdriver.net/BusForYou/demo/contact-us.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 16 Jun 2017 07:26:55 GMT -->
 </html>
