@@ -7,10 +7,10 @@ error_reporting(0);
 <!DOCTYPE HTML>
 <html lang="en">
 <head>
-	<!-- Start WOWSlider.com HEAD section -->
+	<!-- Start slider header section -->
 	<link rel="stylesheet" type="text/css" href="slider_files/style.css" />
 	<script type="text/javascript" src="slider_files/jquery.js"></script>
-	<!-- End WOWSlider.com HEAD section -->
+	<!-- End Wslider header section -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -58,7 +58,7 @@ error_reporting(0);
 <?php include('includes/header.php');?>
 <!-- /Header -->
 
-<!-- Start WOWSlider.com BODY section -->
+<!-- Start slider BODY section -->
 <div id="wowslider-container1">
 <div class="ws_images"><ul>
 		<li><img src="slider_images/images/bannerimage1.jpg" alt="banner-image-1" title="The Best Car deals" id="wows1_0"/></li>
@@ -175,7 +175,7 @@ foreach($results as $result)
               </div>
 
               <div class="form-group">
-                <button type="submit" class="btn btn-block"><i class="fa fa-search" aria-hidden="true"></i> Search For Bus</button>
+                <button type="submit" class="btn btn-block"><i class="fa fa-search" aria-hidden="true"></i> Search For a Bus</button>
               </div>
             </form>
           </div>
