@@ -195,7 +195,7 @@ foreach($results as $result)
               <li class="gray-bg">
                 <div class="recent_post_img"> <a href="vehical-details.php?vhid=<?php echo htmlentities($result->id);?>"><img src="admin/img/Busimages/<?php echo htmlentities($result->Vimage1);?>" alt="image"></a> </div>
                 <div class="recent_post_title"> <a href="vehical-details.php?vhid=<?php echo htmlentities($result->id);?>"><?php echo htmlentities($result->Starting_Point);?> , <?php echo htmlentities($result->BusesTitle);?></a>
-                  <p class="widget_price">Ksh<?php echo htmlentities($result->PricePerPerson);?> Per Person</p>
+                  <p class="widget_price">Ksh<?php echo htmlentities($result->PricePerPerson);?> Per Individual</p>
                 </div>
               </li>
               <?php }} ?>
