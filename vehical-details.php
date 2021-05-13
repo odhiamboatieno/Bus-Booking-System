@@ -361,7 +361,7 @@ $_SESSION['brndid']=$result->bid;
 
     <!--Similar-Cars-->
     <div class="similar_cars">
-      <h3>Buses in the same route</h3>
+      <h3>Buses of same route</h3>
       <div class="row">
 <?php
 $bid=$_SESSION['brndid'];
