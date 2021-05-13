@@ -16,7 +16,7 @@ error_reporting(0);
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <meta name="keywords" content="">
 <meta name="description" content="">
-<title>Limo Transport Sacco | Car Listing</title>
+<title>Limo Transport Sacco | Matatu Listing</title>
 <!--Bootstrap -->
 <link rel="stylesheet" href="assets/css/bootstrap.min.css" type="text/css">
 <!--Custome Style -->
@@ -67,7 +67,7 @@ error_reporting(0);
 		<li><img src="slider_images/images/blog_img2.jpg" alt="blog_img2" title="Quality Services" id="wows1_3"/></li>
 		<li><img src="slider_images/images/listing_img4.jpg" alt="listing_img4" title="Better Customer Care" id="wows1_4"/></li>
 		<li><img src="slider_images/images/listing_img3.jpg" alt="listing_img3" title="Easy Service Procedures" id="wows1_5"/></li>
-		<li><a href="http://odhiammbotomm.epizy.com"><img src="slider_images/images/listing_img2.jpg" alt="slider jquery" title="Premium Services" id="wows1_6"/></a></li>
+		<li><a href="http://odhiamboatieno.com"><img src="slider_images/images/listing_img2.jpg" alt="slider jquery" title="Premium Services" id="wows1_6"/></a></li>
 		<li><img src="slider_images/images/support_faq_bg.jpg" alt="support_faq_bg" title="support_faq_bg" id="wows1_7"/></li>
 	</ul></div>
 	<div class="ws_bullets"><div>
