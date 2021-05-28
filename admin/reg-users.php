@@ -33,7 +33,7 @@ $msg="Page data updated  successfully";
 	<meta name="author" content="">
 	<meta name="theme-color" content="#3e454c">
 	
-	<title>Limo Transport Sacco |Admin Manage testimonials   </title>
+	<title>Odhiambo Atieno Transport Sacco |Admin Manage testimonials   </title>
 
 	<!-- Font awesome -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
