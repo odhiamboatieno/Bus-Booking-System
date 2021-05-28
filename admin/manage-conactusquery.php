@@ -35,7 +35,7 @@ $msg="Testimonial Successfully Inacrive";
 	<meta name="author" content="">
 	<meta name="theme-color" content="#3e454c">
 	
-	<title>Limo Transport Sacco |Admin Manage Queries   </title>
+	<title>Odhiambo Atieno Transport Sacco |Admin Manage Queries   </title>
 
 	<!-- Font awesome -->
 	<link rel="stylesheet" href="css/font-awesome.min.css">
