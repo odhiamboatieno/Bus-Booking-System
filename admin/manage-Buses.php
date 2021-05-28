@@ -82,7 +82,7 @@ $msg="Bus  record deleted successfully";
 				<div class="row">
 					<div class="col-md-12">
 
-						<h2 class="page-title">Manage Buses</h2>
+						<h2 class="page-title">Odhiambo Atieno |Manage Buses</h2>
 
 						<!-- Zero Configuration Table -->
 						<div class="panel panel-default">
