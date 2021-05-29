@@ -154,7 +154,7 @@ foreach($results as $result)
             </div>
              <?php if($result->UpdationDate!=""){?>
             <div class="form-group">
-              <label class="control-label">Last Update at  -</label>
+              <label class="control-label">Last Updated at  -</label>
              <?php echo htmlentities($result->UpdationDate);?>
             </div>
             <?php } ?>
